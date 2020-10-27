@@ -34,7 +34,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang= "scss">
 
 body, html {
   font-family: 'PT Serif', serif;
